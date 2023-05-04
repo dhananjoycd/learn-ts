@@ -1,4 +1,4 @@
-# **Module - 01 = Basic Types of TypeScript _[ Hand note  by [DHANANJOY](https://www.facebook.com/DhananjoyChandraDas.Official) ]_**
+# **Module - 02 = Basic Types of TypeScript _[ Hand note  by [DHANANJOY](https://www.facebook.com/DhananjoyChandraDas.Official) ]_**
 
 1. Environment Setup for TS → Node, NVM, TSC
 
@@ -177,10 +177,11 @@
     let aboutVarsity= isVarsityOpen??'Varsity is closed now';
     console.log(aboutVarsity)
 
-## Now It's time to complete the module-02
+## Now It's time to complete the module-03
 let's explore...
 
 <div style="color:yellow; background-color:black; border: 2px white solid; padding: 10px; text-align: center;"> 
+
 <img src="./dhananjoy.jpg" alt="Dhananjoy's Photo">
  Happy Coding 😊 <br>
  Dhananjoy Chandra Das <br>

@@ -14,4 +14,3 @@ const valobasaeProkar = {
     manuserNam: "Sokhina"
 };
 console.log(`Haire Valobasa ${valobasaeProkar.name}`);
-// console.log(`Next Level is ready to make ${valobasa} and er percentage holo ${valobasaDey[4]}% r ${valobasaKmn[0]} rina k ${valobasaKmn[1]} love kore ${valobasaKmn[2]}%`);
